@@ -32,8 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziaziz&show_icons=true&locale=en&layout=compact" alt="fauziaziz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziaziz&show_icons=true&locale=en" alt="fauziaziz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauziaziz&" alt="fauziaziz" /></p>
-
 ![Fauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziaziz&show_icons=true&theme=transparent)
