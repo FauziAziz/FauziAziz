@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziaziz&show_icons=true&locale=en" alt="fauziaziz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauziaziz&" alt="fauziaziz" /></p>
+
+![Fauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziaziz&show_icons=true&theme=transparent)
