@@ -33,3 +33,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziaziz&show_icons=true&locale=en&layout=compact" alt="fauziaziz" /></p><br>
 
 ![Fauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziaziz&show_icons=true&theme=transparent)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
