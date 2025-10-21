@@ -34,4 +34,4 @@
 
 ![Fauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziaziz&show_icons=true&theme=transparent)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/fauziaziz/fauziaziz/blob/output/github-contribution-grid-snake-dark.svg)
