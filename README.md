@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fauzi Abdurrahman Aziz</h1>
+<h1 align="center">Hi 👋, I'm Fauzi Aziz</h1>
 <h3 align="center">A newbie frontend developer from indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauziaziz&label=Profile%20views&color=0e75b6&style=flat" alt="fauziaziz" /> </p>
