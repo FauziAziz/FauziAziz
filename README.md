@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **unique css framework**
 
-- 📫 How to reach me **fauziabdurrahmanaziz@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [[null] ;)]([null] ;))
 
